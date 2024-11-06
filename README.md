@@ -71,3 +71,7 @@ qr-code-generator/
 
 Feel free to open issues or submit pull requests with improvements. All contributions are welcome!
 
+![111111](https://github.com/user-attachments/assets/b89e1b50-d418-4ee5-8c75-0d3a73e3c6b7)
+
+![22222](https://github.com/user-attachments/assets/bc72f8af-92c8-4b28-a816-84bdac67ded3)
+

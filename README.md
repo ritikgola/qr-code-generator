@@ -22,7 +22,7 @@ This project is a web-based QR code generator that allows users to input a link 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/qr-code-generator.git
+    git clone https://github.com/ritikgola/qr-code-generator.git
     cd qr-code-generator
     ```
 
